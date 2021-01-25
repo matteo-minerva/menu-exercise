@@ -10,7 +10,7 @@
   <h3 align="center">Tours</h3>
 
   <p align="center">
-    Esercizio useState
+    Esercizio useState e Conditional Rendering
     <br />
     <br />
     <a href="https://menu-exercise.vercel.app">Live Demo</a>
@@ -23,7 +23,7 @@
 ## About
 
 <a href="https://menu-exercise.vercel.app"><img src="https://i.imgur.com/mriMegz.png"/></a>
-È un app realizzata come esercizio riguardate useEffect e il Conditional Rendering. <br/>
+È un app realizzata come esercizio riguardate useState e il Conditional Rendering. <br/>
 L'idea viene da un video di freeCodeCamp.org disponibile su <a href="https://youtu.be/4UZrsTqkcW4">YouTube</a>.
 
 
