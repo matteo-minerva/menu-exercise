@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Tours</h3>
+  <h3 align="center">Menu</h3>
 
   <p align="center">
     Esercizio useState e Conditional Rendering
